@@ -1,0 +1,8 @@
+
+
+
+Debuggers:
+    delve: https://github.com/go-delve/delve/tree/master
+    gdlv (Debugger gui): https://github.com/aarzilli/gdlv
+
+
